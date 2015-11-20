@@ -14,10 +14,10 @@
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.2",
-    "path": "^0.11.14",
-    "babyparse": "^0.4.3",
-    "optimist": "^0.6.1",
+    "is_js": "^0.7.4",
+    "lodash": "^3.10.1",
     "moment": "^2.10.6",
-    "is_js": "^0.7.4"
+    "optimist": "^0.6.1",
+    "path": "^0.11.14"
   }
 }
